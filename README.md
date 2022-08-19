@@ -1,7 +1,7 @@
 # Developer Landing Page
 
 
-## Created By : [Gaurav Kumar](https://www.google.com)
+## Created By : [Gaurav Kumar](https://the-gaurav-portfolio.netlify.app/)
 
 </br>
 
@@ -37,7 +37,7 @@
 
 ***
 
-### Checkout the webiste : [google](https://www.google.com)
+### Checkout the webiste : [Click Here](https://the-developer-page.netlify.app/)
 
 ***
 <br>
